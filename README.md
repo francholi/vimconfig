@@ -1,2 +1,2 @@
 # vimconfig
-vim config stuff
+Trying to keep vim config stuff in one place
